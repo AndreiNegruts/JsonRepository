@@ -1,0 +1,156 @@
+{
+    "itinerari": [
+        {
+            "id": 1,
+            "name": "Passeggiate a cavallo al tramanto o all'alba",
+            "duration": 2,
+            "price": 55,
+            "cover":"https://uroboro8.github.io/ImageRepository/images/i1.jpg",
+            "images": [
+                "https://uroboro8.github.io/ImageRepository/images/i2.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i3.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i4.jpg"
+            ],
+            "type":"famiglie",
+            "description":"Passeggiate a cavallo al tramonto o all’alba in un bellissimo percorso di strade bianche tra le colline di Volterra e pony per i più piccoli, successivamente, al termine della passeggiata, verrà servito un aperitivo o una colazione."
+        },
+
+        {
+            "id": 2,
+            "name": "Caccia al tartufo",
+            "duration": 1.30,
+            "price": 60,
+            "cover":"https://uroboro8.github.io/ImageRepository/images/i5.jpg",
+            "images": [
+                "https://uroboro8.github.io/ImageRepository/images/i6.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i7.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i8.jpg"
+            ],
+            "type":"famiglie",
+            "description":"Escursione nei boschetti a caccia del pregiato grazie anche alla guida dei nostri esperti tartufai e dei loro cani addestrati."
+        },
+
+        {
+            "id": 3,
+            "name": "Corsi di cucina - pasta fresca",
+            "duration": 3,
+            "price": 65,
+            "cover":"https://uroboro8.github.io/ImageRepository/images/i9.jpg",
+            "images": [
+                "https://uroboro8.github.io/ImageRepository/images/i10.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i11.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i12.jpg"
+            ],
+            "type":"famiglie",
+            "description":"Preparazione di tre tipi di pasta fresca tipici con pranzo o cena."
+        
+        },
+
+        {
+            "id": 4,
+            "name": "Degustazione vini toscani",
+            "duration": 4,
+            "price": 120,
+            "cover":"https://uroboro8.github.io/ImageRepository/images/i13.jpg",
+            "images": [
+                "https://uroboro8.github.io/ImageRepository/images/i14.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i15.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i16.jpg"
+            ],
+            "type":"singolo",
+            "description":"Passeggiata in vigna, visita in una cantina del nostro territorio, approfondimento in barricaia e degustazione di cinque vini tipici."
+        },
+
+        {
+            "id": 5,
+            "name": "Escursioni Offroad",
+            "duration": 2,
+            "price": 150,
+            "cover":"https://uroboro8.github.io/ImageRepository/images/i17.jpg",
+            "images": [
+                "https://uroboro8.github.io/ImageRepository/images/i18.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i19.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i20.jpg"
+            ],
+            "type":"singolo",
+            "description":"Sorprendenti paesaggi intorno all'agriturismo in modo avventuroso con i nostri mezzi 4×4. Saranno compresi nel prezzo ci sono un brunch salato e dolce con bevande."
+        },
+
+        {
+            "id": 6,
+            "name": "Escursione in bicicletta",
+            "duration": 6,
+            "price": 95,
+            "cover":"https://uroboro8.github.io/ImageRepository/images/i21.jpg",
+            "images": [
+                "https://uroboro8.github.io/ImageRepository/images/i22.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i23.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i24.jpg"
+            ],
+            "type":"singolo",
+            "description":"Un'esperienza che ti coinvolgerà in un’escursione in bicicletta lungo un itinerario di circa 35-40 km lungo un percorso misto, asfalto e strada sterrata. Potrai inoltre ammirare la bellezza delle colline toscane sulla tua e-bike e fare una sosta per un pranzo leggero per poi ripartire, inoltre, durante l'esperienza potrai interagire con una guida esperta che ti racconterà in italiano e inglese curiosità ed aneddoti sul nostro territorio."
+        },
+
+        {
+            "id": 7,
+            "name": "Noleggio scooter 125cc",
+            "duration": 24,
+            "price": 55,
+            "cover":"https://uroboro8.github.io/ImageRepository/images/i25.jpg",
+            "images": [
+                "https://uroboro8.github.io/ImageRepository/images/i26.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i27.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i28.jpg"
+            ],
+            "type":"coppia",
+            "description":"Ammira la bellezza della nostra terra da protagonista con il tuo Scooter 125. Preparati per un’emozionante esperienza che ti permetterà per un giorno di godere di panorami mozzafiato all'interno del nostro territorio alla scoperta di gusti, sapori e profumo, lasciati trasportare dalla scoperta dei nostri vigneti, uliveti e campi di girasole ed innamorati dei vicoli nascosti dei borghi medievali, delle città d’arte e dei segreti della cucina tradizionale toscana."
+        },
+
+        {
+            "id": 8,
+            "name": "Cocktail experience",
+            "duration": 2,
+            "price": 45,
+            "cover":"https://uroboro8.github.io/ImageRepository/images/i29.jpg",
+            "images": [
+                "https://uroboro8.github.io/ImageRepository/images/i30.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i31.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i32.jpg"
+            ],
+            "type":"singolo",
+            "description":"Impara come miscelare, shakerare, versare e servire i cocktail più famosi, per poter condividere un momento speciale in compagnia. Il nostro staff ti guiderà in un fantastico viaggio, unisciti al nostro esperto barman ed impara i segreti della preparazione dei tuoi cocktail preferiti, a fine preparazione, potrai bere i cocktail preparati durante l’esperienza, accompagnati da vari stuzzichini. "
+        },
+
+        {
+            "id": 9,
+            "name": "A spasso nella natura e nella storia",
+            "duration": 5,
+            "price": 55,
+            "cover":"https://uroboro8.github.io/ImageRepository/images/i33.jpg",
+            "images": [
+                "https://uroboro8.github.io/ImageRepository/images/i34.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i35.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i36.jpg"
+            ],
+            "type":"coppia",
+            "description":"Splendido circondario costituiscono una delle realtà più diversificate e ricche di attrazioni della Toscana accompagnati dall’inconfondibile odore di zolfo, tipico di queste acque sulfuree e dai soli rumori della natura, incontrerete i ruderi di antichi mulini e fornaci medievali, come novelli esploratori scoprirete cascate, resti di statue e di vita quotidiana di un uomo la cui storia non può non affascinare."
+        },
+
+        {
+            "id": 10,
+            "name": "Quad experience",
+            "duration": 2,
+            "price": 110,
+            "cover":"https://uroboro8.github.io/ImageRepository/images/i37.jpg",
+            "images": [
+                "https://uroboro8.github.io/ImageRepository/images/i38.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i39.jpg",
+                "https://uroboro8.github.io/ImageRepository/images/i40.jpg"
+            ],
+            "type":"coppia",
+            "description":"Liberate lo spirito d’avventura e cimentatevi nelle nostre escursioni in quad. Scopri la Toscana tra itinerari nel bosco e vie sterrate, dove l’escursione si fa sempre più emozionante: immersi nella campagna affioreranno casolari, resti archeologici, luoghi nascosti e distese immense di natura incontaminata. I quad a disposizione sono mezzi affidabili in grado di superare facilmente ogni ostacolo e farvi vivere in tutta sicurezza un’esperienza indimenticabile a contatto con la natura. dopo che lo staff vi avrà dato alcuni consigli e mostrato il funzionamento del quad, una guida esperta vi accompagnerà all’avventura su strade sterrate, alla scoperta di paesaggi mozzafiato nelle splendide colline della campagna Toscana."
+        }
+
+        
+    ]
+}

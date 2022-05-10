@@ -1,0 +1,109 @@
+{
+    "galleria": [
+        {
+            "id": 0,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p51.jpg"
+        },
+        {
+            "id": 1,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p52.jpg"
+        },
+        {
+            "id": 2,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p53.jpg"
+        },
+        {
+            "id": 3,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p54.jpg"
+        },
+        {
+            "id": 4,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p55.jpg"
+        },
+        {
+            "id": 5,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p56.jpg"
+        },
+        {
+            "id": 6,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p57.jpg"
+        },
+        {
+            "id": 7,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p58.jpg"
+        },
+        {
+            "id": 8,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p59.jpg"
+        },
+        {
+            "id": 9,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p60.jpg"
+        },
+        {
+            "id": 10,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p61.jpg"
+        },
+        {
+            "id": 11,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p62.jpg"
+        },
+        {
+            "id": 12,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p63.jpg"
+        },
+        {
+            "id": 13,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p64.jpg"
+        },
+        {
+            "id": 14,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p65.jpg"
+        },
+        {
+            "id": 15,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p66.jpg"
+        },
+        {
+            "id": 17,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p67.jpg"
+        },
+        {
+            "id": 18,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p68.jpg"
+        },
+        {
+            "id": 19,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p69.jpg"
+        },
+        {
+            "id": 20,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p70.jpg"
+        },
+        {
+            "id": 21,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p71.jpg"
+        },
+        {
+            "id": 22,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p72.jpg"
+        },
+        {
+            "id": 23,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p73.jpg"
+        },
+        {
+            "id": 24,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p74.jpg"
+        },   
+        {
+            "id": 25,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p75.jpg"
+        },
+        {
+            "id": 26,
+            "image":"https://uroboro8.github.io/ImageRepository/images/p76.jpg"
+        }
+        
+    ]
+}

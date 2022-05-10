@@ -1,0 +1,374 @@
+{
+    "piatti":[
+        {
+            "id": 0,
+            "nome":"Coccoli abbracciati dal prosciutto",
+            "type":"Antipasto",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p0.jpg",
+            "description":"Prosciutto crudo, coccoli e squaquerone."                             
+        },
+        {
+            "id": 1,
+            "nome":"Tartare di scottona",
+            "type":"Antipasto",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p1.jpg",
+            "description":"Tartara di scottona condita dallo Chef."                    
+        },
+        {
+            "id": 2,
+            "nome":"Fiori di zucca fritti",
+            "type":"Antipasto",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p2.jpg",
+            "description":"Fiori di zucca."                    
+        },
+        {
+            "id": 3,
+            "nome":"Burrata al tartufo",
+            "type":"Antipasto",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p3.jpg",
+            "description":"Burrata e tartufo."                    
+        },
+        {
+            "id": 4,
+            "nome":"Cruditè di carciofi",
+            "type":"Antipasto",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p4.jpg",
+            "description":"Cruditè di carciofi accomapgnati da un contorno di rucola e una spolverata grana."                    
+        },
+        {
+            "id": 5,
+            "nome":"Tagliere della casa (per 2 pers.)",
+            "type":"Antipasto",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p5.jpg",
+            "description":"Tagliere della casa con Proscitto crudo e cotto, mortadella, salame e speck. Accompagnato da un contorno di pane fresco."                    
+        },
+        {
+            "id": 6,
+            "nome":"Varietà di pecorino",
+            "type":"Antipasto",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p6.jpg",
+            "description":"Varietà di pecorino toscano accompagnato da miele e marmellata di fichi."                    
+        },
+        {
+            "id": 7,
+            "nome":"Panzanella",
+            "type":"Antipasto",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p7.jpg",
+            "description":"Pane raffermo, verdure dell’orto per una pietanza meravigliosamente semplice e appetitosa."                    
+        },
+        {
+            "id": 8,
+            "nome":"Lardo di Colonnata",
+            "type":"Antipasto",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p8.jpg",
+            "description":"Lardo di Colonnata con Pomodorini secchi sott’olio."                    
+        },
+        {
+            "id": 9,
+            "nome":"Sformatino di Verdure",
+            "type":"Antipasto",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p9.jpg",
+            "description":"Sformatino di Verdure con una Fonduta di Pecorino."                    
+        },
+        {
+            "id": 10,
+            "nome":"Cacio pepe e rigatino",
+            "type":"Primo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p10.jpg",
+            "description":"Spaghetti conditi con cacio, una spolverata di pepe e Rigatino toscano PAT."                    
+        },
+        {
+            "id": 11,
+            "nome":"Paccheri al ragù di cacciagione",
+            "type":"Primo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p11.jpg",
+            "description":"Paccheri al ragù di Cacciagione fresca personalmente selezionata dalla nostra azienda."                    
+        },
+        {
+            "id": 12,
+            "nome":"Tortelli di patate al ragù toscano",
+            "type":"Primo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p12.jpg",
+            "description":"Tortelli di patate accompagnati da un buon ragù di carne fatto cuocere lentamente per almeno 4 ore."                    
+        },
+        {
+            "id": 13,
+            "nome":"Risotto alla zucca gialla con crema di gorgonzola e pancetta croccante",
+            "type":"Primo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p13.jpg",
+            "description":"Risotto alla zucca gialla su un letto di crema di gorgonzola e un contorno di pancetta croccante."                    
+        },
+        {
+            "id": 14,
+            "nome":"Gnocchi zabaione di parmigiano e tartufo",
+            "type":"Primo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p14.jpg",
+            "description":"Gnocchi zabaione di parmigiano accopagnati da un aroma di tartufo."                    
+        },
+        {
+            "id": 15,
+            "nome":"Tagliolini alle verdure di stagione",
+            "type":"Primo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p15.jpg",
+            "description":"Tagliolini alle verdure tipiche di quella stagione."                    
+        },
+        {
+            "id": 16,
+            "nome":"Pici al ragù di anatra",
+            "type":"Primo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p16.jpg",
+            "description":"Pici all’anatra sono un primo piatto sfizioso e saporito che rispetta la tradizione italiana."                    
+        },
+        {
+            "id": 17,
+            "nome":"Ravioli ripieni",
+            "type":"Primo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p17.jpg",
+            "description":"Ravioli ripieni di burrata con pomodorino fresco e basilico."                    
+        },
+        {
+            "id": 18,
+            "nome":"Pappardelle all’ortolano",
+            "type":"Primo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p18.jpg",
+            "description":"Pappardelle all’ortolano con pasta fresca condita con sugo di verdure miste."                    
+        },
+        {
+            "id": 19,
+            "nome":"Gnocchi di patate",
+            "type":"Primo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p19.jpg",
+            "description":"Gnocchi di patate al gorgonzola con un contorno di radicchio e noci."                    
+        },
+        {
+            "id": 20,
+            "nome":"Tagliata di manzo con rucola e grana",
+            "type":"Secondo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p20.jpg",
+            "description":"Tagliata di manzo selezionata di cottura a scelta dal cliente accopagnata da rucola e grana."                    
+        },
+        {
+            "id": 21,
+            "nome":"Tagliata di manzo al tartufo fresco",
+            "type":"Secondo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p21.jpg",
+            "description":"Tagliata di manzo selezionata di cottura a scelta dal cliente accopagnata da tartufo fresco."                    
+        },
+        {
+            "id": 22,
+            "nome":"Bistecca alla fiorentina",
+            "type":"Secondo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p22.jpg",
+            "description":"Bistecca alla Fiorentina cotta, come da tradizione, su una griglia con braci roventi."                    
+        },
+        {
+            "id": 23,
+            "nome":"Galletto al mattone (per 2 pers.)",
+            "type":"Secondo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p23.jpg",
+            "description":"Carne cotta sulla griglia utilizzando un peso, da cui il nome mattone, avvolto nella carta di alluminio."                    
+        },
+        {
+            "id": 24,
+            "nome":"Peposo all'imprunetina con fagioli bianchi ",
+            "type":"Secondo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p24.jpg",
+            "description":"La carne è cotta nel vinocos' da risultare molto più speziata grazie anche all'aggiunta del pepe nero."                    
+        },
+        {
+            "id": 25,
+            "nome":"Petto d'anatra all'arancia ",
+            "type":"Secondo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p25.jpg",
+            "description":"Filetto di carne d'anatra cucinato in padella e servito a fette con il suo fondo di cottura."                    
+        },
+        {
+            "id": 26,
+            "nome":"Carrè di agnello in crosta di pistacchi",
+            "type":"Secondo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p26.jpg",
+            "description":"Carrè di Agnello avvolto da una croccante crosta di pistacchi."                    
+        },
+        {
+            "id": 27,
+            "nome":"Parmigiana di melanzane fatta in casa",
+            "type":"Secondo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p27.jpg",
+            "description":"Pochi ingredienti come pomodoro, melanzane, basilico e formaggio, tanto sapore."                    
+        },
+        {
+            "id": 28,
+            "nome":"Peposo di manzo all’imprunetina",
+            "type":"Secondo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p28.jpg",
+            "description":"Spezzatino particolarmente speziato. Si caratterizza per il processo di preparazione, che prevede una lenta cottura nel vino per più di 3 ore."                    
+        },
+        {
+            "id": 29,
+            "nome":"Stracotto di manzo alla fiorentina",
+            "type":"Secondo",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p29.jpg",
+            "description":"Carne di manzo, pomodori pelati e tante erbe aromatiche."                    
+        },
+        {
+            "id": 30,
+            "nome":"Quaresimali",
+            "type":"Dolce",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p30.jpg",
+            "description":"biscotti tradizionali fiorentini, l’impasto dei biscotti toscani è composto da chiare d’uovo, zucchero e polvere di cacao e cotto in forno."                    
+        },
+        {
+            "id": 31,
+            "nome":"Schiacciata alla fiorentina",
+            "type":"Dolce",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p31.jpg",
+            "description":"Schiacciata alla fiorentina con lievito di birra, una doppia lievitazione e l’aggiunta dello strutto. Scorza e succo di arancia."                    
+        },
+        {
+            "id": 32,
+            "nome":"Sorbetto",
+            "type":"Dolce",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p32.jpg",
+            "description":"Sorbetto al caffè e al limone"                    
+        },
+        {
+            "id": 33,
+            "nome":"Mattonella di gelato con pinoli e cioccolato",
+            "type":"Dolce",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p33.jpg",
+            "description":"Dessert goloso preparato con strati di fior di latte e cioccolato, caramello salato e una copertura croccante di cioccolato."                    
+        },
+        {
+            "id": 34,
+            "nome":"Tiramisù della casa",
+            "type":"Dolce",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p34.jpg",
+            "description":"Tiramisù della casa con la nostra ricetta segreta."                    
+        },
+        {
+            "id": 35,
+            "nome":"Torta al cioccolato della Nadia",
+            "type":"Dolce",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p35.jpg",
+            "description":"Torta al Cioccolato fatta in casa."                    
+        },
+        {
+            "id": 36,
+            "nome":"Cheese-cake",
+            "type":"Dolce",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p36.jpg",
+            "description":"Una sfiziosa base croccante di biscotti sormontata da una morbida e cremosa farcitura."                    
+        },
+        {
+            "id": 37,
+            "nome":"Gelato artigianale",
+            "type":"Dolce",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p37.jpg",
+            "description":"Gelato Artigianale componibile: cioccolato, crema, straccitella, pistacchio, nocciola."                    
+        },
+        {
+            "id": 38,
+            "nome":"Tiramisù",
+            "type":"Dolce",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p38.jpg",
+            "description":"Tiramisù originale con uova, mascarpone, savoiardi e caffè."                    
+        },
+        {
+            "id": 39,
+            "nome":"Pannacotta",
+            "type":"Dolce",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p39.jpg",
+            "description":"Pannacotta alla vaniglia e frutto di bosco."                    
+        },
+        {
+            "id": 40,
+            "nome":"Brunello di Montalcino 2012, Biondi-Santi",
+            "type":"Vino",
+            "category":"rosso",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p40.jpg",
+            "description":"Il bouquet è penetrante e complesso, giocato su intense note di ciliegia matura, ribes e viola mammola, impreziosito da bacche di ginepro."                    
+        },
+        {
+            "id": 41,
+            "nome":"‘Masseto’ 2015 Toscana Rosso IGT, Tenuta dell’Ornellaia",
+            "type":"Vino",
+            "category":"rosso",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p41.jpg",
+            "description":"Coinvolgente il quadro aromatico che si articola tra mirtilli, more di rovo mature, affiancate da leggeri registri speziati di vaniglia."                    
+        }, 
+        {
+            "id": 42,
+            "nome":"‘Sassicaia’ 2015 DOC Sassicaia, Tenuta San Guido",
+            "type":"Vino",
+            "category":"rosso",
+            "image":"https://uroboro8.github.io/ImageRepository/images//p42.jpg",
+            "description":"Titilla il naso alternando intensi aromi varietali di ciliegia, mirto, garrigue, eucalipto e accenni di peperone verde."                    
+        },
+        {
+            "id": 43,
+            "nome":"Le Pergole Torte 2016, Montevertine",
+            "type":"Vino",
+            "category":"rosso",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p43.jpg",
+            "description":"Olfatti giocato inizialmente su note di amarena, viola mammola arancia sanguinella impreziosite da più enigmatici sentori di nepitella selvatica e humus."                    
+        }, 
+        {
+            "id": 44,
+            "nome":"Colore 2016 Toscana Rosso IGT, Bibi Graetz",
+            "type":"Vino",
+            "category":"rosso",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p44.jpg",
+            "description":"Profumi incisivi di ciliegia matura e more di rovo ampliate da nuances di cuoio, chiodi di garofano ed erbe officinali."                    
+        },
+        {
+            "id": 45,
+            "nome":"Caberlot 2018, Il Carnasciale",
+            "type":"Vino",
+            "category":"rosso",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p45.jpg",
+            "description":"Si apre al naso un caleidoscopio lisergico di sensazioni olfattive timbri di frutti di bosco scuri e maturi, polvere di cacao e nuances balsamiche."                    
+        },
+        {
+            "id": 46,
+            "nome":"Testamatta Bianco 2018, Bibi Graetz",
+            "type":"Vino",
+            "category":"Bianco",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p46.jpg",
+            "description":"Al naso si profila ampio e intenso, spandendo note di frutti tropicali, mele cotte e pesca gialla matura impreziosite da souvenirs di erbe officinali."                    
+        },
+        {
+            "id": 47,
+            "nome":"‘Boggina B’ 2018, Petrolo",
+            "type":"Vino",
+            "category":"Bianco",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p47.jpg",
+            "description":"Note di frutta a polpa gialla sciroppata si alternano a  salvia, nepitella, cioccolato bianco e burro fuso."                    
+        },
+        {
+            "id": 48,
+            "nome":"Chardonnay Fabrizio Bianchi 2020, Castello di Monsanto",
+            "type":"Vino",
+            "category":"Bianco",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p48.jpg",
+            "description":"Profilo aromatico stratificato: si apre su note di frutta esotica a polpa gialla, ginestra e lime, per proseguire verso timbri di pepe rosa, caramello e crema pasticcera."                    
+        },
+        {
+            "id": 49,
+            "nome":"Trebbiano VD 2019, Monterapon",
+            "type":"Vino",
+            "category":"Bianco",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p49.jpg",
+            "description":"Profilo aromatico stratificato: si apre su note di pesca sciroppata, fiori di zagara e zafferano, per proseguire verso timbri di cappero selvatico e macchia mediterranea."                    
+        },
+        {
+            "id": 50,
+            "nome":"Batar 2017, Querciabella",
+            "type":"Vino",
+            "category":"Bianco",
+            "image":"https://uroboro8.github.io/ImageRepository/images/p50.jpg",
+            "description":"Al naso si staglia un ampio bouquet che spazia da frutta matura a polpa gialla, acacia, crema pasticcera e zafferano."                    
+        }
+    ]
+    
+  
+}
